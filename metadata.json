@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Maintenance Agent",
+  "description": "An enterprise-grade predictive maintenance dashboard for smart manufacturing, utilizing Google Gemini API and RAG context search to predict machine failures and recommend maintenance actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
