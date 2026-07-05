@@ -17,6 +17,9 @@ To improve AI response quality, the system uses **Retrieval-Augmented Generation
 All machine information, users, predictions, and maintenance reports are securely stored in **MongoDB**.
 
 ---
+## Prototype
+https://ai-powered-predictive-maintenance-agent-50257106208.asia-southeast1.run.app
+---
 
 # 🎯 Objectives
 
