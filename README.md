@@ -288,4 +288,4 @@ http://localhost:8080
 docker-compose up --build
 ```
 
-## ⭐ If you found this project useful, please consider giving it a Star on GitHub!
+
